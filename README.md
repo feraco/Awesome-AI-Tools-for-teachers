@@ -23,7 +23,7 @@ This list compiles cutting-edge AI tools tailored for science research educators
 - **[Instant Mesh for 3D Models](https://huggingface.co/spaces/TencentARC/InstantMesh)**  
   Simplify and enhance 3D models for research and visualization.
 
-- **[Real-Time Text to Image (SDXL Lightning)](https://huggingface.co/spaces/radames/Real-Time-Text-to-Image-SDXL-Lightning)**  
+- **[Real-Time Text to Image (SDXL Lightning)]([https://huggingface.co/spaces/radames/Real-Time-Text-to-Image-SDXL-Lightning](https://huggingface.co/spaces/cbensimon/Real-Time-Text-to-Image-SDXL-Lightning)**  
   Create detailed images in real time from text prompts for scientific illustrations or presentations.
 
 - **[Luma AI Genie - 3D Visualization](https://lumalabs.ai/genie?view=create)**  
