@@ -44,6 +44,9 @@ This list compiles cutting-edge AI tools tailored for science research educators
 ---
 
 ## 🎓 Teaching and Presentation
+- **[Novastart](https://novastart.com/)**  
+  Infinite canvas whiteboard OS for apps, shared canvases, and AI agents; a visual workspace for arranging teaching materials. Free individual plan; team collaboration and AI usage are paid.
+
 - **[Slide Deck AI Creator](https://huggingface.co/spaces/barunsaha/slide-deck-ai)**  
   Automate the creation of engaging and visually appealing slide decks.
 
